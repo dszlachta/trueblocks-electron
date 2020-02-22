@@ -1,0 +1,14 @@
+{
+  "name": "trueblocks-electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dawid Szlachta <taheto@o2.pl>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^8.0.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
